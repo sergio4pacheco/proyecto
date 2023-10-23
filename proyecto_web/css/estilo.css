@@ -1,0 +1,52 @@
+body{
+    
+    
+    background-color: rgb(162, 222, 224);
+}
+section{
+    display: flex;
+    background-color: rgb(115, 192, 166);
+}
+section.moto{
+    background-color: bisque;
+}
+section{
+   box-shadow: 2px2px2px rgb(192, 120, 115);
+}
+nav ul{
+    display: grid;
+    
+    display: flex;
+    
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    
+    font-style: italic;
+    list-style-type: none;
+    font-weight: bold;
+}
+.vendedor{
+    font-family: 'Dancing Script', cursive;
+
+    }
+nav ul a{
+   
+    text-decoration: none;
+    color: brown;
+}
+header a{
+    
+    text-decoration: none;
+}
+ .titulo{
+   
+   
+    text-align: center;
+    font-size: 60px ;
+    font-family: cursive
+    
+ };
+ 
+ header a{
+    color: black;
+ }
